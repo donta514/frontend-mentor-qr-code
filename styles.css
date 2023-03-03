@@ -25,7 +25,7 @@ footer {
 
 h1,
 p {
-  font-size: 1rem;
+  font-size: 15px;
 }
 
 .container {
@@ -63,7 +63,7 @@ p {
   color: var(--grayish-blue);
   text-align: center;
   margin: 0;
-  padding-inline: 1rem;
+  padding-inline: 1.5rem;
 }
 
 .attribution {
